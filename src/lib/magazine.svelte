@@ -1,11 +1,11 @@
 <script>
   import Cover from '../assets/1.png'
- import Nav from './nav.svelte'
- import Logo from '../assets/logo.png'
- import Beranda from "./gallery.svelte";
-	import Profile from "./magazine.svelte";
 
-	import Home from "../App.svelte";
+ import Logo from '../assets/logo.png'
+
+
+
+	
 
 </script>
 
